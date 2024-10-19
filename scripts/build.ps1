@@ -1,1 +1,1 @@
-go build -o ./bin/vmware-controller.exe .\cmd\vmware-controller\main.go
+go build -o $PSScriptRoot/../bin/vmware-controller.exe $PSScriptRoot\..\cmd\vmware-controller\main.go
