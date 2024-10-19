@@ -1,0 +1,1 @@
+powershell.exe .\deployment\windows\InstallService.ps1
