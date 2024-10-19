@@ -1,0 +1,1 @@
+go build -o ./bin/vmware-controller.exe .\cmd\vmware-controller\main.go
